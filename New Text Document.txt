@@ -1,0 +1,1 @@
+theme get --password=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 --store=myfirst-dev.myshopify.com --themeid=122770522286
